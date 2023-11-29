@@ -25,6 +25,7 @@ export { default as SocialIcons } from "../features/SocialIcons.tsx";
 export { default as Topbar } from "../features/Topbar.tsx";
 
 export { default as Banner } from "../sections/Banner.tsx";
+export { default as BannerQuote } from "../sections/BannerQuote.tsx";
 export { default as Footer } from "../sections/Footer.tsx";
 export { default as Header } from "../sections/Header.tsx";
 export { default as LatestPosts } from "../sections/LatestPosts.tsx";

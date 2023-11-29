@@ -2,9 +2,6 @@
 module.exports = {
   content: ["./index.html", "./src/**/*.{ts,tsx,js,jsx}"],
   theme: {
-    // colors: {
-    //   blue: "#1fb6ff",
-    // },
     fontFamily: {
       sans: ["Montserrat", "sans-serif"],
       serif: ["Cormorant Garamond", "serif"],
@@ -18,6 +15,7 @@ module.exports = {
         companyBanner: "url('./src/assets/banner-company.webp')",
       },
       colors: {
+        "primary-100": "#ebc9bd",
         "primary-400": "#c8a497",
         "primary-600": "#ab8476",
         footer: "#1b1b1b",
