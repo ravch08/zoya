@@ -1,5 +1,5 @@
 import { blogPosts } from "../utils/data";
-import { BlogItem, SectionHeading } from "../utils/helper";
+import { BlogItem, Button, SectionHeading } from "../utils/helper";
 
 const PopularPosts = () => {
   const popularPosts = blogPosts?.filter((post) => post.popular);
@@ -7,9 +7,9 @@ const PopularPosts = () => {
   return (
     <section aria-labelledby="Latest Posts">
       <div className="container">
-        <SectionHeading date="APRIL 19, 2021" heading="Latest Posts" />
+        <SectionHeading date="APRIL 19, 2021" heading="Popular Posts" />
 
-        <div className="flex flex-wrap justify-between items-center gap-8">
+        <div className="flex flex-wrap items-center justify-between gap-8">
           {popularPosts?.map((blogpost) => (
             <BlogItem
               key={blogpost.id}
@@ -20,6 +20,10 @@ const PopularPosts = () => {
               description={blogpost.description}
             />
           ))}
+        </div>
+
+        <div className="text-center">
+          <Button target="blogs" btnText="LOAD MORE" />
         </div>
       </div>
     </section>

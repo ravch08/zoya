@@ -1,6 +1,15 @@
 export { default as banner1 } from "../../assets/banner-01.jpg";
 export { default as banner2 } from "../../assets/banner-02.jpg";
 export { default as banner3 } from "../../assets/banner-03.jpg";
+export { default as blogBanner } from "../../assets/blog-trending.jpg";
+export { default as instaPost01 } from "../../assets/insta-post-01.jpg";
+export { default as instaPost02 } from "../../assets/insta-post-02.jpg";
+export { default as instaPost03 } from "../../assets/insta-post-03.jpg";
+export { default as instaPost04 } from "../../assets/insta-post-04.jpg";
+export { default as instaPost05 } from "../../assets/insta-post-05.jpg";
+export { default as instaPost06 } from "../../assets/insta-post-06.jpg";
+export { default as instaPost07 } from "../../assets/insta-post-07.jpg";
+export { default as instaPost08 } from "../../assets/insta-post-08.jpg";
 export { default as logoDark } from "../../assets/logo-dark.png";
 export { default as logoLight } from "../../assets/logo-light.png";
 export { default as post01 } from "../../assets/post-01.jpg";
@@ -15,8 +24,11 @@ export { default as post09 } from "../../assets/post-09.jpg";
 export { default as post10 } from "../../assets/post-10.jpg";
 export { default as post11 } from "../../assets/post-11.jpg";
 export { default as post12 } from "../../assets/post-12.jpg";
+export { default as user } from "../../assets/user.png";
 
 export { default as BlogItem } from "../features/BlogItem.tsx";
+export { default as BlogPageItem } from "../features/BlogPageItem.tsx";
+export { default as Button } from "../features/Button.tsx";
 export { default as Navbar } from "../features/Navbar.tsx";
 export { default as ScrollTop } from "../features/ScrollTop.tsx";
 export { default as SearchBar } from "../features/SearchBar.tsx";
@@ -26,10 +38,14 @@ export { default as Topbar } from "../features/Topbar.tsx";
 
 export { default as Banner } from "../sections/Banner.tsx";
 export { default as BannerQuote } from "../sections/BannerQuote.tsx";
+export { default as BlogAside } from "../sections/BlogAside.tsx";
+export { default as BlogMain } from "../sections/BlogMain.tsx";
 export { default as Footer } from "../sections/Footer.tsx";
 export { default as Header } from "../sections/Header.tsx";
+export { default as InstaPosts } from "../sections/InstaPosts.tsx";
 export { default as LatestPosts } from "../sections/LatestPosts.tsx";
 export { default as Newsletter } from "../sections/Newsletter.tsx";
+export { default as PageBanner } from "../sections/PageBanner.tsx";
 export { default as PopularPosts } from "../sections/PopularPosts.tsx";
 
 export { default as About } from "../pages/About.tsx";

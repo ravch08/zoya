@@ -1,6 +1,7 @@
 import {
   Banner,
   BannerQuote,
+  InstaPosts,
   LatestPosts,
   Newsletter,
   PopularPosts,
@@ -14,6 +15,7 @@ const Home = () => {
       <BannerQuote />
       <PopularPosts />
       <Newsletter />
+      <InstaPosts />
     </main>
   );
 };

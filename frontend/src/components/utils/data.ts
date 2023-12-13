@@ -54,7 +54,7 @@ export const blogPosts = [
     author: "NICOLE CUNNINGHAM",
     heading: "Ten of our favourite sunglasses this season",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta earum officia ab ipsam vitae culpa beatae itaque quidem deserunt, architecto iure, cum eum labore.",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis consequuntur tempore numquam iusto nisi dolorum! Magnam beatae earum id quasi voluptas. Eum quam, laboriosam consequuntur accusamus illum, esse perspiciatis fuga sed fugit autem incidunt necessitatibus modi voluptatibus omnis, ab facere adipisci tenetur at! Cumque, autem recusandae. Odit aliquid iusto ipsa.",
   },
   {
     id: 2,
@@ -65,7 +65,7 @@ export const blogPosts = [
     author: "NICOLE CUNNINGHAM",
     heading: "Vintage camper van for a summer adventure",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta earum officia ab ipsam vitae culpa beatae itaque quidem deserunt, architecto iure, cum eum labore.",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis consequuntur tempore numquam iusto nisi dolorum! Magnam beatae earum id quasi voluptas. Eum quam, laboriosam consequuntur accusamus illum, esse perspiciatis fuga sed fugit autem incidunt necessitatibus modi voluptatibus omnis, ab facere adipisci tenetur at! Cumque, autem recusandae. Odit aliquid iusto ipsa.",
   },
   {
     id: 3,
@@ -76,7 +76,7 @@ export const blogPosts = [
     author: "NICOLE CUNNINGHAM",
     heading: "Riding camels through the Sahara Desert",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta earum officia ab ipsam vitae culpa beatae itaque quidem deserunt, architecto iure, cum eum labore.",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis consequuntur tempore numquam iusto nisi dolorum! Magnam beatae earum id quasi voluptas. Eum quam, laboriosam consequuntur accusamus illum, esse perspiciatis fuga sed fugit autem incidunt necessitatibus modi voluptatibus omnis, ab facere adipisci tenetur at! Cumque, autem recusandae. Odit aliquid iusto ipsa.",
   },
   {
     id: 4,
@@ -87,7 +87,7 @@ export const blogPosts = [
     author: "NICOLE CUNNINGHAM",
     heading: "A tour through the old Moroccan city",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta earum officia ab ipsam vitae culpa beatae itaque quidem deserunt, architecto iure, cum eum labore.",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis consequuntur tempore numquam iusto nisi dolorum! Magnam beatae earum id quasi voluptas. Eum quam, laboriosam consequuntur accusamus illum, esse perspiciatis fuga sed fugit autem incidunt necessitatibus modi voluptatibus omnis, ab facere adipisci tenetur at! Cumque, autem recusandae. Odit aliquid iusto ipsa.",
   },
   {
     id: 5,
@@ -98,7 +98,7 @@ export const blogPosts = [
     author: "NICOLE CUNNINGHAM",
     heading: "Top five perfumes for a summer holiday",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta earum officia ab ipsam vitae culpa beatae itaque quidem deserunt, architecto iure, cum eum labore.",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis consequuntur tempore numquam iusto nisi dolorum! Magnam beatae earum id quasi voluptas. Eum quam, laboriosam consequuntur accusamus illum, esse perspiciatis fuga sed fugit autem incidunt necessitatibus modi voluptatibus omnis, ab facere adipisci tenetur at! Cumque, autem recusandae. Odit aliquid iusto ipsa.",
   },
   {
     id: 6,
@@ -109,7 +109,7 @@ export const blogPosts = [
     author: "NICOLE CUNNINGHAM",
     heading: "The best breakfast spots in Istanbul, Turkey",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta earum officia ab ipsam vitae culpa beatae itaque quidem deserunt, architecto iure, cum eum labore.",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis consequuntur tempore numquam iusto nisi dolorum! Magnam beatae earum id quasi voluptas. Eum quam, laboriosam consequuntur accusamus illum, esse perspiciatis fuga sed fugit autem incidunt necessitatibus modi voluptatibus omnis, ab facere adipisci tenetur at! Cumque, autem recusandae. Odit aliquid iusto ipsa.",
   },
   {
     id: 7,
@@ -120,7 +120,7 @@ export const blogPosts = [
     author: "NICOLE CUNNINGHAM",
     heading: "Ten of our favourite sunglasses this season",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta earum officia ab ipsam vitae culpa beatae itaque quidem deserunt, architecto iure, cum eum labore.",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis consequuntur tempore numquam iusto nisi dolorum! Magnam beatae earum id quasi voluptas. Eum quam, laboriosam consequuntur accusamus illum, esse perspiciatis fuga sed fugit autem incidunt necessitatibus modi voluptatibus omnis, ab facere adipisci tenetur at! Cumque, autem recusandae. Odit aliquid iusto ipsa.",
   },
   {
     id: 8,
@@ -131,7 +131,7 @@ export const blogPosts = [
     author: "NICOLE CUNNINGHAM",
     heading: "Ten of our favourite sunglasses this season",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta earum officia ab ipsam vitae culpa beatae itaque quidem deserunt, architecto iure, cum eum labore.",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis consequuntur tempore numquam iusto nisi dolorum! Magnam beatae earum id quasi voluptas. Eum quam, laboriosam consequuntur accusamus illum, esse perspiciatis fuga sed fugit autem incidunt necessitatibus modi voluptatibus omnis, ab facere adipisci tenetur at! Cumque, autem recusandae. Odit aliquid iusto ipsa.",
   },
   {
     id: 9,
@@ -142,18 +142,18 @@ export const blogPosts = [
     author: "NICOLE CUNNINGHAM",
     heading: "Ten of our favourite sunglasses this season",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta earum officia ab ipsam vitae culpa beatae itaque quidem deserunt, architecto iure, cum eum labore.",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis consequuntur tempore numquam iusto nisi dolorum! Magnam beatae earum id quasi voluptas. Eum quam, laboriosam consequuntur accusamus illum, esse perspiciatis fuga sed fugit autem incidunt necessitatibus modi voluptatibus omnis, ab facere adipisci tenetur at! Cumque, autem recusandae. Odit aliquid iusto ipsa.",
   },
   {
     id: 10,
     imgSrc: post10,
     latest: false,
-    popular: false,
+    popular: true,
     category: "Travel",
     author: "NICOLE CUNNINGHAM",
     heading: "Ten of our favourite sunglasses this season",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta earum officia ab ipsam vitae culpa beatae itaque quidem deserunt, architecto iure, cum eum labore.",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis consequuntur tempore numquam iusto nisi dolorum! Magnam beatae earum id quasi voluptas. Eum quam, laboriosam consequuntur accusamus illum, esse perspiciatis fuga sed fugit autem incidunt necessitatibus modi voluptatibus omnis, ab facere adipisci tenetur at! Cumque, autem recusandae. Odit aliquid iusto ipsa.",
   },
   {
     id: 11,
@@ -164,7 +164,7 @@ export const blogPosts = [
     author: "NICOLE CUNNINGHAM",
     heading: "Ten of our favourite sunglasses this season",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta earum officia ab ipsam vitae culpa beatae itaque quidem deserunt, architecto iure, cum eum labore.",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis consequuntur tempore numquam iusto nisi dolorum! Magnam beatae earum id quasi voluptas. Eum quam, laboriosam consequuntur accusamus illum, esse perspiciatis fuga sed fugit autem incidunt necessitatibus modi voluptatibus omnis, ab facere adipisci tenetur at! Cumque, autem recusandae. Odit aliquid iusto ipsa.",
   },
   {
     id: 12,
@@ -175,6 +175,6 @@ export const blogPosts = [
     author: "NICOLE CUNNINGHAM",
     heading: "Ten of our favourite sunglasses this season",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta earum officia ab ipsam vitae culpa beatae itaque quidem deserunt, architecto iure, cum eum labore.",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis consequuntur tempore numquam iusto nisi dolorum! Magnam beatae earum id quasi voluptas. Eum quam, laboriosam consequuntur accusamus illum, esse perspiciatis fuga sed fugit autem incidunt necessitatibus modi voluptatibus omnis, ab facere adipisci tenetur at! Cumque, autem recusandae. Odit aliquid iusto ipsa.",
   },
 ];

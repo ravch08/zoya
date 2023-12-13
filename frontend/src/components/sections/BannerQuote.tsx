@@ -2,9 +2,9 @@ const BannerQuote = () => {
   return (
     <section aria-labelledby="Quote">
       <div className="container">
-        <div className="bg-primary-100 text-center relative py-20 px-12 rounded-lg">
+        <div className="relative rounded-lg bg-primary-100 px-12 py-20 text-center">
           <svg
-            className="w-48 absolute top-0 left-32 z-0 opacity-30"
+            className="absolute left-32 top-0 z-0 w-48 opacity-30"
             xmlns="http://www.w3.org/2000/svg"
           >
             <g>
@@ -15,7 +15,7 @@ const BannerQuote = () => {
             </g>
           </svg>
 
-          <p className="font-serif text-4xl italic mb-6 text-white z-10 relative">
+          <p className="relative z-10 mx-auto mb-6 w-[70%] font-serif text-4xl italic text-white">
             "Quality content with useful info and some of the best services I
             have experienced. Recommend it to all."
           </p>
