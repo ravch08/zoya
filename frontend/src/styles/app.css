@@ -131,9 +131,25 @@ section {
 }
 
 .scrollTop {
-  @apply fixed bottom-8 right-8 z-20 flex h-12 w-12 scale-0 cursor-pointer items-center justify-center rounded-full bg-gray-900 fill-white transition-colors transition-transform duration-500 ease-in-out hover:bg-gray-600;
+  @apply fixed bottom-8 right-8 z-20 flex h-12 w-12 scale-0 cursor-pointer items-center justify-center rounded-full bg-gray-900 fill-white transition-all duration-500 ease-in-out hover:bg-gray-600;
 }
 
 .scrollShow {
   @apply scale-100;
+}
+
+.form-control {
+  @apply mb-6 flex flex-col;
+}
+
+.form-input {
+  @apply rounded-md bg-slate-200 px-4 py-2;
+}
+
+.btn-submit {
+  @apply mt-12 block rounded-md bg-gray-900 px-12 py-3 text-center text-sm text-white;
+}
+
+.btn-link {
+  @apply mt-6 block rounded-md bg-gray-200 px-12 py-3 text-center text-sm text-black;
 }

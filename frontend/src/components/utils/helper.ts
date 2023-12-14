@@ -53,4 +53,6 @@ export { default as Blog } from "../pages/Blog.tsx";
 export { default as BlogsPage } from "../pages/BlogsPage.tsx";
 export { default as ContactUs } from "../pages/ContactUs.tsx";
 export { default as Home } from "../pages/Home.tsx";
+export { default as Login } from "../pages/Login.tsx";
 export { default as Page404 } from "../pages/Page404.tsx";
+export { default as Register } from "../pages/Register.tsx";

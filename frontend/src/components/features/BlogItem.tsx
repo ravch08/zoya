@@ -24,7 +24,9 @@ const BlogItem = ({
         <h3 className="pt-1 text-3xl transition-colors duration-500 ease-in-out hover:text-primary-600">
           <Link to="#!">{heading}</Link>
         </h3>
-        <p className="py-4 text-sm font-light text-slate-600">{description}</p>
+        <p className="line-clamp-2 overflow-hidden py-4 text-sm font-light text-slate-600">
+          {description}
+        </p>
         <span className="sub-heading gap-1 text-xs text-gray-800 transition-colors duration-500 ease-in-out hover:text-primary-600">
           BY<Link to="#!">{author}</Link>
         </span>
