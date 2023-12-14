@@ -16,7 +16,7 @@ const About = () => {
       />
 
       <section>
-        <div className="container flex items-start justify-between gap-4">
+        <div className="container flex items-center justify-between gap-4">
           <div className="flex w-[70%] flex-col">
             <span className="primary-span">LIFESTYLE BLOGGER</span>
             <h1 className="pb-4 pt-4 text-5xl">Hi, I am Carolyn!</h1>

@@ -125,3 +125,15 @@ section {
 .insta-img {
   @apply brightness-100 grayscale-0 transition duration-500 ease-in-out hover:brightness-50 hover:grayscale;
 }
+
+.stickier {
+  @apply fixed left-0 top-0 z-20 w-full bg-white py-2 shadow-lg transition-all duration-500 ease-in-out;
+}
+
+.scrollTop {
+  @apply fixed bottom-8 right-8 z-20 flex h-12 w-12 scale-0 cursor-pointer items-center justify-center rounded-full bg-gray-900 fill-white transition-colors transition-transform duration-500 ease-in-out hover:bg-gray-600;
+}
+
+.scrollShow {
+  @apply scale-100;
+}
